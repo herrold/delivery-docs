@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delivery Handbook</title>
+    <description>Execution is Everything!</description>
+    <link>http://guilds.pillartechnology.com</link>
+    <atom:link href="http://guilds.pillartechnology.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Guild Personas Open for Comment</title>
+        <description>
+          
+          Beginning today, the beta version of the Guild Personas are open for comment from all of Pillar. The document will remain in beta for approximately one week. The alpha version of the document was released to Diversity @ Pillar several weeks ago. This version reflects some of the modifications and...
+        </description>
+        <pubDate>Wed, 02 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://guilds.pillartechnology.com/2015-12-02-guild-personas-open-comment</link>
+        <guid isPermaLink="true">http://guilds.pillartechnology.com/2015-12-02-guild-personas-open-comment</guid>
+      </item>
+    
+  </channel>
+</rss>
