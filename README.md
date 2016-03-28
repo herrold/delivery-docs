@@ -1,5 +1,6 @@
 # Pillar Delivery Handbook 
 
+
 This handbook is built on top of [Jekyll](http://jekyllrb.com/)
 
 ### Notes
